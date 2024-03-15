@@ -1,0 +1,305 @@
+[
+  {
+    "post_id": 1,
+    "username": "user1",
+    "post_content": "Having a great day at the beach! ☀️🏖️",
+    "media": "https://example.com/beach_photo.jpg",
+    "media_type": "photo",
+    "timestamp": "2024-02-22T12:30:00",
+    "likes": 150,
+    "comments": [
+      {
+        "comment_id": 1,
+        "user_id": 102,
+        "username": "user2",
+        "comment_text": "Looks amazing! Enjoy your day!",
+        "timestamp": "2024-02-22T12:45:00"
+      },
+      {
+        "comment_id": 2,
+        "user_id": 103,
+        "username": "user3",
+        "comment_text": "Wish I could be there too!",
+        "timestamp": "2024-02-22T13:00:00"
+      }
+    ],
+    "reactions": {
+      "like": 120,
+      "love": 20,
+      "haha": 5,
+      "sad": 3,
+      "angry": 2
+    }
+  },
+  {
+    "post_id": 2,
+    "username": "user4",
+    "post_content": "Just finished reading a great book! 📚 #BookLover",
+    "media": "https://example.com/book_photo.jpg",
+    "media_type": "photo",
+    "timestamp": "2024-02-22T14:00:00",
+    "likes": 80,
+    "comments": [
+      {
+        "comment_id": 3,
+        "user_id": 105,
+        "username": "user5",
+        "comment_text": "What book did you read?",
+        "timestamp": "2024-02-22T14:15:00"
+      },
+      {
+        "comment_id": 4,
+        "user_id": 106,
+        "username": "user6",
+        "comment_text": "I need book recommendations!",
+        "timestamp": "2024-02-22T14:30:00"
+      }
+    ],
+    "reactions": {
+      "like": 70,
+      "love": 8,
+      "wow": 2
+    }
+  },
+  {
+    "post_id": 3,
+    "username": "user7",
+    "post_content": "Exploring the city streets. 🏙️ #UrbanAdventure",
+    "media": "https://example.com/city_photo.jpg",
+    "media_type": "photo",
+    "timestamp": "2024-02-22T15:45:00",
+    "likes": 120,
+    "comments": [
+      {
+        "comment_id": 5,
+        "user_id": 108,
+        "username": "user8",
+        "comment_text": "Which city are you in?",
+        "timestamp": "2024-02-22T16:00:00"
+      },
+      {
+        "comment_id": 6,
+        "user_id": 109,
+        "username": "user9",
+        "comment_text": "Love the city vibes!",
+        "timestamp": "2024-02-22T16:15:00"
+      }
+    ],
+    "reactions": {
+      "like": 100,
+      "love": 15,
+      "wow": 5
+    }
+  },
+  {
+    "post_id": 4,
+    "username": "user10",
+    "post_content": "Cooking up a storm in the kitchen! 🍳🔥 #Foodie",
+    "media": "https://example.com/cooking_photo.jpg",
+    "media_type": "photo",
+    "timestamp": "2024-02-22T18:30:00",
+    "likes": 200,
+    "comments": [
+      {
+        "comment_id": 7,
+        "user_id": 111,
+        "username": "user11",
+        "comment_text": "What's on the menu?",
+        "timestamp": "2024-02-22T18:45:00"
+      },
+      {
+        "comment_id": 8,
+        "user_id": 112,
+        "username": "user12",
+        "comment_text": "I can almost smell it from here!",
+        "timestamp": "2024-02-22T19:00:00"
+      }
+    ],
+    "reactions": {
+      "like": 180,
+      "love": 15,
+      "wow": 3,
+      "haha": 2
+    }
+  },
+  {
+    "post_id": 5,
+    "username": "user13",
+    "post_content": "Chasing sunsets. 🌅 #NatureLover",
+    "media": "https://example.com/sunset_photo.jpg",
+    "media_type": "photo",
+    "timestamp": "2024-02-22T19:45:00",
+    "likes": 90,
+    "comments": [
+      {
+        "comment_id": 9,
+        "user_id": 114,
+        "username": "user14",
+        "comment_text": "Where is this beautiful place?",
+        "timestamp": "2024-02-22T20:00:00"
+      },
+      {
+        "comment_id": 10,
+        "user_id": 115,
+        "username": "user15",
+        "comment_text": "Sunset goals!",
+        "timestamp": "2024-02-22T20:15:00"
+      }
+    ],
+    "reactions": {
+      "like": 80,
+      "love": 8,
+      "wow": 2
+    }
+  },
+  {
+    "post_id": 6,
+    "username": "user16",
+    "post_content": "Movie night with friends. 🍿🎬 #FridayFun",
+    "media": "https://example.com/movie_night_photo.jpg",
+    "media_type": "photo",
+    "timestamp": "2024-02-22T21:30:00",
+    "likes": 120,
+    "comments": [
+      {
+        "comment_id": 11,
+        "user_id": 117,
+        "username": "user17",
+        "comment_text": "What movie are you watching?",
+        "timestamp": "2024-02-22T21:45:00"
+      },
+      {
+        "comment_id": 12,
+        "user_id": 118,
+        "username": "user18",
+        "comment_text": "Enjoy the movie night!",
+        "timestamp": "2024-02-22T22:00:00"
+      }
+    ],
+    "reactions": {
+      "like": 100,
+      "love": 15,
+      "haha": 5
+    }
+  },
+  {
+    "post_id": 7,
+    "username": "user19",
+    "post_content": "Weekend getaway to the mountains! ⛰️ #AdventureTime",
+    "media": "https://example.com/mountain_getaway_photo.jpg",
+    "media_type": "photo",
+    "timestamp": "2024-02-23T09:00:00",
+    "likes": 180,
+    "comments": [
+      {
+        "comment_id": 13,
+        "user_id": 120,
+        "username": "user20",
+        "comment_text": "Which mountain range is this?",
+        "timestamp": "2024-02-23T09:15:00"
+      },
+      {
+        "comment_id": 14,
+        "user_id": 121,
+        "username": "user21",
+        "comment_text": "Breathtaking views!",
+        "timestamp": "2024-02-23T09:30:00"
+      }
+    ],
+    "reactions": {
+      "like": 160,
+      "love": 18,
+      "wow": 2
+    }
+  },
+  {
+    "post_id": 8,
+    "username": "user22",
+    "post_content": "Sunday brunch with the family. 🍳🥞 #FamilyTime",
+    "media": "https://example.com/brunch_photo.jpg",
+    "media_type": "photo",
+    "timestamp": "2024-02-23T11:30:00",
+    "likes": 250,
+    "comments": [
+      {
+        "comment_id": 15,
+        "user_id": 123,
+        "username": "user23",
+        "comment_text": "That brunch spread looks delicious!",
+        "timestamp": "2024-02-23T11:45:00"
+      },
+      {
+        "comment_id": 16,
+        "user_id": 124,
+        "username": "user24",
+        "comment_text": "Family goals!",
+        "timestamp": "2024-02-23T12:00:00"
+      }
+    ],
+    "reactions": {
+      "like": 230,
+      "love": 18,
+      "haha": 2
+    }
+  },
+  {
+    "post_id": 9,
+    "username": "user25",
+    "post_content": "Fitness challenge accepted! 💪🏋️‍♀️ #FitLife",
+    "media": "https://example.com/fitness_video.mp4",
+    "media_type": "video",
+    "timestamp": "2024-02-23T14:00:00",
+    "likes": 120,
+    "comments": [
+      {
+        "comment_id": 17,
+        "user_id": 126,
+        "username": "user26",
+        "comment_text": "What's your workout routine?",
+        "timestamp": "2024-02-23T14:15:00"
+      },
+      {
+        "comment_id": 18,
+        "user_id": 127,
+        "username": "user27",
+        "comment_text": "You're inspiring!",
+        "timestamp": "2024-02-23T14:30:00"
+      }
+    ],
+    "reactions": {
+      "like": 100,
+      "love": 15,
+      "wow": 5
+    }
+  },
+  {
+    "post_id": 10,
+    "username": "user28",
+    "post_content": "Celebrating milestones! 🎉 #AchievementUnlocked",
+    "media": "https://example.com/celebration_photo.jpg",
+    "media_type": "photo",
+    "timestamp": "2024-02-23T16:30:00",
+    "likes": 180,
+    "comments": [
+      {
+        "comment_id": 19,
+        "user_id": 129,
+        "username": "user29",
+        "comment_text": "What achievement?",
+        "timestamp": "2024-02-23T16:45:00"
+      },
+      {
+        "comment_id": 20,
+        "user_id": 130,
+        "username": "user30",
+        "comment_text": "Congratulations!",
+        "timestamp": "2024-02-23T17:00:00"
+      }
+    ],
+    "reactions": {
+      "like": 160,
+      "love": 18,
+      "haha": 2
+    }
+  }
+]
